@@ -32,13 +32,13 @@ body {
 
 .text-block {
     color: black;
-    background: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+    background: rgba(255, 255, 255); /* Slightly transparent background */
     padding: 10px;
     margin-bottom: 10px;
     width: 100%;
     max-width: 600px; /* Ensure content doesn’t get too wide */
     text-align: left;
-    backdrop-filter: blur(50px); /* Apply blur effect */
+
 }
 
 .text-block.center a {
