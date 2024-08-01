@@ -17,7 +17,6 @@ body {
                 linear-gradient(90deg, #4f46e4 9%, transparent 10%);
     background-size: 1em 1em;
     background-color: #ffffff;
-    opacity: 1;
     overflow-x: hidden; /* Allow horizontal scrolling if needed */
 }
 
@@ -32,7 +31,7 @@ body {
 
 .text-block {
     color: black;
-    background: rgba(255, 255, 255); /* Slightly transparent background */
+    background: rgb(255, 255, 255); 
     padding: 10px;
     margin-bottom: 10px;
     width: 100%;
